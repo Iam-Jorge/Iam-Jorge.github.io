@@ -3,7 +3,7 @@
 #### Technical Skills: Python....
 
 ## Education
-- Ph.D., Physics | The University of  (_May 2022_)								       		
+- Ingeniería informática | UCLM  (Septiembre 2021 - Presente)								       		
 
 
 ## Work Experience
