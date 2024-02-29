@@ -30,9 +30,9 @@
 - [Data Science - Saylor.org (Code: 1310904943GA)](https://learn.saylor.org/admin/tool/certificate/index.php)
 - [Data Analysis - Google](https://www.coursera.org/account/accomplishments/verify/6W6QNJV788VZ)
 - [Python - FreeCodeCamps](https://www.freecodecamp.org/certification/georgi74/scientific-computing-with-python-v7)
-- [Publication](https://github.com/Iam-Jorge/Iam-Jorge.github.io)
-- CodeCademy Java
-- OpenWebinars LPIC1
+- [UX Design - Google](https://coursera.org/share/8c458e3219298def32d64e196fb8a759)
+- CodeCademy - Java
+- OpenWebinars - LPIC1
 
 ---
 ## Aptitudes técnicas
