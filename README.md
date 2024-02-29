@@ -12,9 +12,9 @@
 - Prácticas de 400h en [Inspiria Dental](https://inspiriadental.com/)
   - Integré el equipo de Frontend en la plataforma Inspiria.
 - Prácticas de 400h en [Soluciones.si](https://www.soluciones.si/)
-  - Desempeñé el rol de Helpdesk, gestionando y resolviendo incidencias tanto de manera remota
+  - Desempeñé el rol de Helpdesk, gestionando y resolviendo incidencias tanto de manera remota como presencial.
 - Prácticas de 400h en [Ayuto. Galapagar](https://galapagar.es/)
-  - Realicé tareas de soporte, configuración y mantenimiento de equipos.
+  - Realicé tareas de soporte, configuración y mantenimiento de equipos e infraestructura.
 
 ---
 ## Voluntariado
