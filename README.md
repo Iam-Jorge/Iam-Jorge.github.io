@@ -41,5 +41,4 @@
 ---
 ## Otras aptitudes
 - Inglés B1 certificado por la UCLM.
-- Búlgaro nativo.
 - Permiso de conducir.
