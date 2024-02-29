@@ -1,14 +1,12 @@
 # Portfolio
 
-#### Technical Skills: Python....
-
-## Educación
-- Ingeniería informática | UCLM  (Septiembre 2021 - Presente)
+## Educación |
+- Ingeniería informática UCLM  (Septiembre 2021 - Presente)
 - Técnico superior en Desarrollo de aplicaciones multiplataforma.
 - Técnico superior en Administración de sistemas y redes.
 - Técnico en Sistemas microinformáticos y redes.
 								       		
-## Experiencia
+## Experiencia |
 - Prácticas de 400h en [Inspiria Dental](https://inspiriadental.com/)
   - Integré el equipo de Frontend en la plataforma Inspiria.
 - Prácticas de 400h en [Soluciones.si](https://www.soluciones.si/)
@@ -16,7 +14,7 @@
 - Prácticas de 400h en [Ayuto. Galapagar](https://galapagar.es/)
   - Realicé tareas de soporte, configuración y mantenimiento de equipos.
 
-## Voluntariado
+## Voluntariado |
 - El Instituto para el Desarrollo de Aplicaciones Tecnológicas de Innovación Social (IDATIS)
   - Participé en el proyecto Solidartist, una experiencia enriquecedora que me permitió aprender y conocer personas valiosas en mi campo.
 - UNHCR Proyecto HateFree
@@ -25,8 +23,7 @@
   - Colaboré en la identificación y reporte de una vulnerabilidad en el sitio web de Oracle.
 
 
-## Certificados
-### 
+## Certificados |
 - [Data Science - Saylor.org (Code: 1310904943GA)](https://learn.saylor.org/admin/tool/certificate/index.php)
 - [Data Analysis - Google](https://www.coursera.org/account/accomplishments/verify/6W6QNJV788VZ)
 - [Python - FreeCodeCamps](https://www.freecodecamp.org/certification/georgi74/scientific-computing-with-python-v7)
@@ -34,8 +31,10 @@
 - CodeCademy Java
 - OpenWebinars LPIC1
 
+## Aptitudes técnicas |
+- 
 
-## Otras aptitudes
+## Otras aptitudes |
 - Inglés B1 certificado por la UCLM.
 - Búlgaro nativo.
 - Permiso de conducir.
