@@ -35,9 +35,6 @@
 - OpenWebinars - LPIC1
 
 ---
-
-
----
 ## Otras aptitudes
 - Inglés B1 certificado por la UCLM.
 - Permiso de conducir.
