@@ -35,8 +35,7 @@
 - OpenWebinars - LPIC1
 
 ---
-## Aptitudes técnicas
-- Incluir
+
 
 ---
 ## Otras aptitudes
